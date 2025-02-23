@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: product-backend
+  data:
+    mongodb:
+      uri: <your mongo db cloud uri>
+      database: product-app
+
+server:
+  port: 7107
